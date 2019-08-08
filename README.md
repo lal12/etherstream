@@ -10,8 +10,8 @@ It currently only supports Linux, but a port to other UNIX-like OSes shouldn't b
 This repository also contains simple example implementations:
 - File transfer client (esftc)
 - File transfer server (esftd)
-- Shell client (esftc)
-- Shell server (esftd)
+- Shell client (ethstrShellC)
+- Shell server (ethstrShellD)
 
 ## Usage
 TODO
